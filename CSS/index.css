@@ -1,0 +1,47 @@
+
+@media (min-width:800px){
+	a{
+		display: block;
+		border: double;
+		margin: 5%;
+	}
+	.nav{
+		margin:auto;
+		display: block;
+	}
+} 
+body{
+	background-color: beige;
+	margin: auto;
+}
+header{
+	margin:5%;
+}
+details{
+	border: double;
+}
+a{
+	margin: 2%;
+	background-color: white;
+}
+.name{
+	border:double;
+	color: blue;
+	background: white;
+	margin: auto;
+}
+img{
+	max-height:400px;
+	border: dashed;
+}
+.nav{
+	margin:2%;
+	border-radius: 10%;
+	max-height: 400px;
+}
+.intro{
+	margin: 10%;
+}
+p{
+	margin-left:2px;
+}
